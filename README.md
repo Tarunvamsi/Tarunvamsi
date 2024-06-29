@@ -32,10 +32,8 @@
 
 <h1 align="center">  GitHub Contributions Graph </h1>
 
-[![Github Activity Graph](https://github-readmeactivitygraph.vercel.app/graphusername=Tarunvamsi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&theme=github-dark)](https://github.com/Tarunvamsi)
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarunvamsi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&theme=github-dark)](https://github.com/zakeer-official)
 
-
----
 
 
 
