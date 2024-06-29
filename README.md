@@ -30,6 +30,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Tarunvamsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+<h1 align="center">  GitHub Contributions Graph </h1>
+
+[![Github Activity Graph](https://github-readmeactivitygraph.vercel.app/graphusername=Tarunvamsi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&theme=github-dark)](https://github.com/Tarunvamsi)
+
+
+---
+
+
 
 
  
