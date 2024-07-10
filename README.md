@@ -7,7 +7,7 @@
 
 <p >🕸 A Unique Style To Connect with Me Directly via Console or Terminal <p></p>
 
-👇 Just Hit 
+👇💻 Just Hit 
 ```bash
 npx tarunvamsi
 ```
