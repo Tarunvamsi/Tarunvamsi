@@ -29,18 +29,6 @@ npx tarunvamsi
   </a>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tarunvamsi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tarunvamsi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunvamsi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tarunvamsi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<h1 align="center">  GitHub Contributions Graph </h1>
-
-[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarunvamsi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&theme=github-dark)](https://github.com/Tarunvamsi)
 
 
 
