@@ -1,17 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tarunvamsi.Tarunvamsi" />
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Timesnewroman&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+I'm+Tarun+Vamsi!+👋;+Let's+Connect!;" />
-</h1>
-
-<p >🕸 A Unique Style To Connect with Me Directly via Console or Terminal <p></p>
-
 👇💻 Just Hit 
 ```bash
 npx tarunvamsi
 ```
-🚀 And Get to Know Me in a Unique Style.
+🚀 And Get to Know Me.
 
  
 <div align="center"> 
